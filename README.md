@@ -18,10 +18,16 @@ como configurar uma conexão no sqlite com sequelize?
 criando => index.js
 criando => modelos
 
+> yarn add sqlite3
+
+
+`insight: module.exports  é para exportar um arquivo, permitir usar ele em outro lugar usando require`
+
 ### para fazer funcoes de login 
 https://sequelize.org/docs/v6/core-concepts/model-querying-finders/#-code-findall--code-
 
 
+# para ver o banco sqlite usei a extensão do sqlite do visualstudio code
 
 
 # tutoriais nao explorados
